@@ -2,7 +2,7 @@
 <div align="center">
 <img width="329" alt="image" src="https://github.com/lee-seong-wook/Scout-robot/assets/130055880/b68b02d7-d178-4002-bdfd-8e31bb057739">
 
-  # Voluntain Web Page v2.0
+  
 > **2022 디지텍 캡스톤디자인 경진대회** <br/> **개발기간: 2022.07 ~ 2022.10**
 
 ## 프로젝트팀 소개
